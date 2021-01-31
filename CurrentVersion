@@ -1,1 +1,15 @@
-1.0.0
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Used for version control</title>
+<link>http://www.powerbi.tips/</link>
+<description>Feed to check for updates.</description>
+<item>
+<title>1.0.0</title>
+<link>Direct URL to content</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Tue, 05 Jan 2021 18:01:14 +0000</pubDate>
+<description>Description for your content.</description>
+</item> 
+</channel>
+</rss> 
