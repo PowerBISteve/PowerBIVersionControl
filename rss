@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-
 <channel>
-  <title>Powerbi BI Version Control/title>
-  <link>https://www.powerbi.tips</link>
-  <description>Powerbi BI Version Control</description>
-  <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>1.0.0</description>
-    <pubDate>Tue, 30 Jan 2021 12:00:00 +0000</pubDate>
-  </item>
-
+<title>Title of your Feed</title>
+<link>http://www.yourwebsite.com/</link>
+<description>This is the description of your Feed. 
+Keep it to one or two sentences.</description>
+<item>
+<title>Content Title</title>
+<link>Direct URL to content</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Wed, 27 Nov 2013 15:17:32 GMT 
+(Note: The date must be in this format)</pubDate>
+<description>Description for your content.</description>
+</item> 
 </channel>
-
-</rss>
+</rss> 
